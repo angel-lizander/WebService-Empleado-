@@ -12,3 +12,10 @@ F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csprojResolveAssemblyReferen
 F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csproj.CoreCompileInputs.cache
 F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.dll
 F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.pdb
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.dll.config
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.dll
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.pdb
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.dll
+C:\Users\Angel Lizander\Documents\GitHub\WebService-Empleado-\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.pdb

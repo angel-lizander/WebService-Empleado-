@@ -9,16 +9,27 @@ namespace WCFEmpleados
     [DataContract]
     public class Empleador
     {
+        [DataMember]
         public string Conomina { get; set; }
+        [DataMember]
         public string Tipodocumento { get; set; }
+        [DataMember]
         public string Documento { get; set; }
+        [DataMember]
         public string Nombre { get; set; }
+        [DataMember]
         public string Apellido1 { get; set; }
+        [DataMember]
         public string Apellido2 { get; set; }
+        [DataMember]
         public string Sexo { get; set; }
+        [DataMember]
         public string Fnacimiento { get; set; }
+        [DataMember]
         public string Sueldoneto { get; set; }
+        [DataMember]
         public string Descuento { get; set; }
+        [DataMember]
         public string Sueldosecundario { get; set; }
 
 
