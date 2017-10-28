@@ -1,0 +1,14 @@
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.dll.config
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.dll
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.pdb
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csprojResolveAssemblyReference.cache
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.dll
+C:\Users\20131071\source\repos\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.pdb
+F:\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.dll.config
+F:\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.dll
+F:\WCFEmpleados\WCFEmpleados\bin\WCFEmpleados.pdb
+F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csprojResolveAssemblyReference.cache
+F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.csproj.CoreCompileInputs.cache
+F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.dll
+F:\WCFEmpleados\WCFEmpleados\obj\Debug\WCFEmpleados.pdb
